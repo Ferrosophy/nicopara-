@@ -1,0 +1,11 @@
+.DS_Store
+.build/
+/xtool/
+/.bsp/
+.swiftpm/
+*.ipa
+*.xip
+# Private: the app icon and development notes stay out of the repository.
+/NicoPlayer/Resources/Icon/
+/PLAN.md
+.env

@@ -1,0 +1,4 @@
+version: 1
+bundleID: com.ferrosophy.nicoplayer
+product: NicoPlayer
+infoPath: NicoPlayer/Resources/xtool-Info.plist
